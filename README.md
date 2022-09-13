@@ -13,5 +13,7 @@ This is the back-end of an e-commerce site. This application uses Express.js and
 <li>Sequelize
 
 ## Tutorial
+[![Watch the video](/Screen%20Shot%202022-09-13%20at%204.26.50%20PM.png)](https://bootcampspot.instructuremedia.com/embed/d68e0083-4656-48a8-a603-31b078e9857f
+)
 
 ## link
