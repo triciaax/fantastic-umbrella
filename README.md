@@ -5,9 +5,10 @@ This is the back-end of an e-commerce site. This application uses Express.js and
 
 ## Instructions
 1. Open mySQL Workbench and run "CREATE DATABASE ecommerce_db" to create the schema of this database
-2. Run "npm i" to install sequelize and express.js
-3. Run "npm seed data" to seed your database
-4. Run "node server" to start the application's server
+2. Create a .env file in the Develop folder with `JAWSDB_URL = <your database connection string>`
+3. Run "npm i" to install sequelize and express.js
+4. Run "npm seed data" to seed your database
+5. Run "node server" to start the application's server
 ## Techonologies Used
 <li>Express.js
 <li>Sequelize
